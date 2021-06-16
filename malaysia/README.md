@@ -1,6 +1,6 @@
 # Coronavirus stats in Malaysia
 
-Actor gets an actual number of examined, infected and deceased people in Malaysia from http://www.moh.gov.my/index.php/pages/view/2019-ncov-wuhan.
+Actor gets an actual number of examined, infected and deceased people in Malaysia from http://covid-19.moh.gov.my/.
 
 Latest data are available at this URL: https://api.apify.com/v2/key-value-stores/6t65lJVfs3d8s6aKc/records/LATEST?disableRedirect=true.
 
