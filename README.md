@@ -1,4 +1,4 @@
-# covid-19
+# Coronavirus 2019 (COVID-19)
 Open APIs with statistics about Covid-19
 
 **Each folder represents one country, documentation for each country could be found in the respective folder. The APIs and data are also available at https://apify.com/covid-19**
